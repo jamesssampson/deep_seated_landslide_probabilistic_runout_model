@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NT4_Extent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::7855" } },
+"features": [
+{ "type": "Feature", "properties": { "MINX": 487837.8298, "MINY": 5430350.1919, "MAXX": 490339.8298, "MAXY": 5432878.1919, "CNTX": 489088.8298, "CNTY": 5431614.191899999, "AREA": 6325056.0, "PERIM": 10060.0, "HEIGHT": 2528.0, "WIDTH": 2502.0, "area_total": 6330101 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 487837.8298, 5430350.1919 ], [ 487837.8298, 5432878.1919 ], [ 490339.8298, 5432878.1919 ], [ 490339.8298, 5430350.1919 ], [ 487837.8298, 5430350.1919 ] ] ] ] } }
+]
+}
