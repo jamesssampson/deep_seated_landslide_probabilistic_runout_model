@@ -1,0 +1,10 @@
+[general]
+name=ProbabilisticLandslideRunout
+qgisMinimumVersion=3.30
+qgisMaximumVersion=3.99
+description=Probabilistic deep-seated landslide runout modelling tools
+version=0.1
+author=James Sampson
+email=jamess54@utas.edu.au
+about=Processing algorithms for probabilistic deep-seated landslide runout (Monte Carlo alpha method).
+plugin_type=python
