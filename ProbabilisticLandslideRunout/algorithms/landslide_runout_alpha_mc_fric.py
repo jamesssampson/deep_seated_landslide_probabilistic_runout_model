@@ -1,5 +1,5 @@
-## Authors: Colin Mazengarb(Original Determanistic Model plugin is based on)
-##          James Sampson(Integration of original model into a probabalistic one and formation of plugin)
+## Authors: Colin Mazengarb (Original Determanistic Model plugin is based on)
+## James Sampson (Integration of original model into a probabalistic one and formation of plugin)
 ## Purpose of Script: A script that models the runout of deep seated landslides
 ## The script uses an alpha value derived from the geology vector layer to control.
 # Runout is controlled by three limiters:
